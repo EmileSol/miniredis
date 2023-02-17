@@ -8,8 +8,8 @@ Set \
 Delete \
 Flush \
 MGET \
-MSET \
-
+MSET 
+\
 On the currently slate: \
 Append \
 CF.EXISTS \
